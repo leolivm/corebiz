@@ -5,32 +5,40 @@
 <blockquote align="center">CoreBiz -> Aplicação para teste de vaga Dev Front-end.</blockquote>
 
 <h1 align="center">
-    <img alt="corebiz" src="https://i.imgur.com/xMmotpn.png" width="200" heigth="416" />
-    <img alt="corebiz" src="https://i.imgur.com/MjLs3dV.png" width="200" heigth="416" />
-    <img alt="corebiz" src="https://i.imgur.com/hO9ZOfB.png" width="200" heigth="416" />
-    <img alt="corebiz" src="https://i.imgur.com/GPOJ4vr.png" width="200" heigth="416" />
-    <img alt="corebiz" src="https://i.imgur.com/9MmfoRk.png" width="200" heigth="416" />
+    <img alt="corebiz" src="https://i.imgur.com/xMmotpn.png" width="920" heigth="518" />
+    <img alt="corebiz" src="https://i.imgur.com/MjLs3dV.png" width="920" heigth="518" />
+    <img alt="corebiz" src="https://i.imgur.com/hO9ZOfB.png" width="920" heigth="518" />
+    <img alt="corebiz" src="https://i.imgur.com/GPOJ4vr.png" width="920" heigth="518" />
+    <img alt="corebiz" src="https://i.imgur.com/9MmfoRk.png" width="920" heigth="518" />
     <img alt="corebiz" src="https://i.imgur.com/TSnDMoI.png" width="200" heigth="416" />
     <img alt="corebiz" src="https://i.imgur.com/g3DGStD.png" width="200" heigth="416" />
 </h1>
 
-## :smiley: Aplicação para liberação de clientes.
+## :smiley: Aplicação clone da interface corebiz disponibilizado no Figma.
 
-- Usado para liberar, bloquear ou consultar clientes com atraso.
+- Utilizado para buscar, listar produtos da API e envio de `dados` para recebimento de newsletter.
 
 ## :cold_sweat: Desafios encontrados:
 
-- AsyncStorage para armazenamento e recuperação de configurações.
-- Redux para persistir login na aplicação.
+<h1 align="center">
+    <img alt="corebiz" src="https://i.imgur.com/gNEchto.png" width="920" heigth="518" />
+    <img alt="corebiz" src="https://i.imgur.com/iJoMgpI.png" width="920" heigth="518" />
+    <img alt="corebiz" src="https://i.imgur.com/0oQVFuA.png" width="920" heigth="518" />
+</h1>
 
 ## :computer: Tecnologias utilizadas:
 
-- 📱 React Native no mobile.
-- ☕️ Node.js no Back-End.
+- ⚛️ ReactJS.
+- :globe_with_meridians: `Redux` e `redux-persist` para armazenamento de estados globais mesmo encerrando a aplicação.
 
-## :dvd: Instalação:
+## :fire: Instalação:
 
 1. Clone este repositorio.
-2. `cd sgemobileapp`<br />
-3. `yarn` para instalar as dependências.<br />
-4. `react-native run-android` para testar em seu aparelho.<br />
+
+```sh
+  $ git clone https://github.com/leolivm/corebiz.git
+```
+
+2. `cd corebiz`<br />
+3. `yarn install` ou `npm install` para instalar as dependências.<br />
+4. `yarn start` para rodar a aplicação na porta `3000`.<br />
