@@ -16,7 +16,7 @@
 
 ## :smiley: Aplicação clone da interface corebiz disponibilizado no Figma.
 
-- Utilizado para buscar, listar produtos da API e envio de `dados` para recebimento de newsletter.
+- Utilizado para `buscar`, `listar` produtos da API e envio de `dados` para recebimento de newsletter.
 
 ## :cold_sweat: Desafios encontrados:
 
