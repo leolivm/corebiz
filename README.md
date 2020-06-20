@@ -7,7 +7,7 @@
 <h1 align="center">
     <img alt="corebiz" src="https://i.imgur.com/xMmotpn.png" width="920" heigth="518" />
     <img alt="corebiz" src="https://i.imgur.com/MjLs3dV.png" width="920" heigth="518" />
-    <img alt="corebiz" src="https://i.imgur.com/hO9ZOfB.png" width="920" heigth="518" />
+    <img alt="corebiz" src="https://i.imgur.com/hO9ZOfB.png" width="400" heigth="259" />
     <img alt="corebiz" src="https://i.imgur.com/GPOJ4vr.png" width="920" heigth="518" />
     <img alt="corebiz" src="https://i.imgur.com/9MmfoRk.png" width="920" heigth="518" />
     <img alt="corebiz" src="https://i.imgur.com/TSnDMoI.png" width="200" heigth="416" />
@@ -21,9 +21,9 @@
 ## :cold_sweat: Desafios encontrados:
 
 <h1 align="center">
-    <img alt="corebiz" src="https://i.imgur.com/gNEchto.png" width="920" heigth="518" />
-    <img alt="corebiz" src="https://i.imgur.com/iJoMgpI.png" width="920" heigth="518" />
-    <img alt="corebiz" src="https://i.imgur.com/0oQVFuA.png" width="920" heigth="518" />
+    <img alt="corebiz" src="https://i.imgur.com/gNEchto.png" width="400" heigth="259" />
+    <img alt="corebiz" src="https://i.imgur.com/iJoMgpI.png" width="400" heigth="259" />
+    <img alt="corebiz" src="https://i.imgur.com/0oQVFuA.png" width="400" heigth="259" />
 </h1>
 
 ## :computer: Tecnologias utilizadas:
@@ -42,3 +42,8 @@
 2. `cd corebiz`<br />
 3. `yarn install` ou `npm install` para instalar as dependências.<br />
 4. `yarn start` para rodar a aplicação na porta `3000`.<br />
+
+## Contato:
+
+- [LinkedIn](https://www.linkedin.com/in/leandro-martins-0640921a4/)
+- leandro@sgeinformatica.com.br
